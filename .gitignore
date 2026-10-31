@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Environnement Python
+.venv/
+__pycache__/
+
+# Enregistrements et transcriptions : des conversations privées, jamais sur GitHub
+enregistrements/
